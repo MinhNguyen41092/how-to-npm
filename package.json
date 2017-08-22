@@ -1,0 +1,17 @@
+{
+  "name": "@minhnguyen41092/workspace",
+  "version": "1.0.0",
+  "description": "freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nguyen Dinh Minh",
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
